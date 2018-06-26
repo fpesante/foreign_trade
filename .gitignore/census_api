@@ -1,0 +1,3 @@
+https://api.census.gov/data/timeseries/intltrade/exports/statehs?get=STATE,ALL_VAL_MO,ALL_VAL_YR&time=2013-01&STATE=PR
+
+https://api.census.gov/data/timeseries/intltrade/exports/statehs?get=STATE,ALL_VAL_MO,ALL_VAL_YR,E_COMMODITY&time=2013-01&STATE=PR&E_COMMODITY=3004
